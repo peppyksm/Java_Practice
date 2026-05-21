@@ -7,6 +7,8 @@ public class Pr23 {
 
 	public static void main(String[] args) {
 		
+		//업다운 게임을 구현하시오.
+		
 		Random random = new Random();
 		Scanner scanner = new Scanner(System.in);
 		
